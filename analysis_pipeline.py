@@ -1,14 +1,6 @@
-#!/usr/bin/env python3
 # =============================================================================
 #  Help-Seeking Orientation in Arabic Mental Health Discourse on Facebook
 #  ---------------------------------------------------------------------------
-#  Analysis pipeline. This script computes every statistic reported in the
-#  paper and regenerates every figure. Running it end-to-end reproduces:
-#
-#     RQ1  corpus characterisation      (raw corpus, 297,697 posts)
-#     RQ2  orientation & engagement     (10,000 Fanar-annotated posts)
-#     RQ3  annotation reliability       (1,000 human-annotated gold posts)
-#
 #  Inputs (place this file in the same directory as the data):
 #     D1 : 06-2014_to_06-2024_الصحة_النفسية_OR_الرعاية_النفسية_OR_الاضطرابات_النفسية.csv
 #     D2 : العلاج_النفسي_OR_الصحة_العقلية_OR_الخدمات_النفسية.csv
